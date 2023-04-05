@@ -1,0 +1,4 @@
+AFRAME.registerComponent("player-movement", {
+  
+});
+
